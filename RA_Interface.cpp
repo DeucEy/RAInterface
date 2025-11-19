@@ -1,3 +1,5 @@
+#include "stdafx.h"
+
 #include "RA_Interface.h"
 
 #include <winhttp.h>
